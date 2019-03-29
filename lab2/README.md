@@ -70,4 +70,4 @@ If anybody came across this problem before please let me know
 
 
 ## Authors
-* **Krzysztof Kolasa** - *Man needs to do his homework*
+* **Krzysztof Kolasa** - *Man needs to do his homework* [kolasak](https://github.com/kolasak)
