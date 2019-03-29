@@ -24,12 +24,10 @@ int main(int argc, char **argv) {
 		I[y] = 0;
 		U[y] = y;
 	}
-	
-	
+		
 	prepare_equations(A, I, N, &graph_inst);	
 	solve_matrix(A, U, I, N);
 	show_matricies(A, U, I, 1, N);
-	
 	
 	update_currents(U, I, &graph_inst);
 	update_graph(&graph_inst, argv[1]);
