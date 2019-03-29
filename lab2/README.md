@@ -36,14 +36,15 @@ $ ./bin/zad1
 ```
 
 ### LU DECOMPOSITION
-Here values are also hardcoded. Make necessary adjustments incode yourself.
+Here values are also hardcoded. Make necessary adjustments in code yourself.
 ```
 $ ./bin/zad2
 ```
 
 ### BRANCH CURRENT SOLVER
 Here you can modify ./src/circuit.h by adding '#define DEBUG 1' bellow libraries includes.
-This will enable different color coding scheme
+This will enable different color coding scheme.
+
 Specify file with information on circuit connections, nodes, resistances and voltage applied to given nodes
 
 file format (nodes are counted from 0!):
